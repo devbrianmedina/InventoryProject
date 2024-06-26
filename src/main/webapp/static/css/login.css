@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+}
+.card {
+    width: 100%;
+    max-width: 400px;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+.card-header {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-bottom: none;
+}
