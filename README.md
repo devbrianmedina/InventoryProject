@@ -4,6 +4,7 @@
 - 🌐 **Tomcat Server 9.0.90**
 
 ## 🔄 Pasos para Replicar
+- [Video para replicar en local](https://www.jetbrains.com/idea/download/)
 
 ### 1. 📥 Descargar [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/)
 - Descarga e instala la versión Ultimate Edition de IntelliJ IDEA desde el enlace proporcionado.
